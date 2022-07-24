@@ -6,3 +6,6 @@ Patches: revanced-patches-2.21.3.jar
 
 YouTube version: 17.28.34  
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-28-34-release/youtube-17-28-34-2-android-apk-download/)  
+
+Twitter version: 9.51.0-release.0  
+downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-51-0-release-0-release/twitter-9-51-0-release-0-android-apk-download/)  
